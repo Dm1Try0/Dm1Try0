@@ -7,6 +7,5 @@
 </div>
  <img src="https://komarev.com/ghpvc/?username=Dm1Try0&style=flat-square&color=blue" alt=""/>
 </div>
-<div align="center">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dm1Try0&theme=dark&mode=weekly)](https://git.io/streak-stats)
-</div>
+
