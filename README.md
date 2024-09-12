@@ -9,7 +9,7 @@
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Dm1Try0&theme=dark&mode=weekly" alt="GitHub Streak" /></a>
 </div>
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Dm1Try0&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dm1Try0&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
